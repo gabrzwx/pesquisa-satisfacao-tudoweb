@@ -8,4 +8,4 @@ Linguagem Utilizada: Python
 
 Fórmula utilizada: potencia * uso médio por dia * dias do mês / 1000  
 
-Para utilizar o programa, basta digitar o nome do aparelho, digitar a potência em watts(W) do mesmo, e em seguida digitar o tempo médio de uso por dia.
+Para utilizar o programa, basta digitar o nome do aparelho, digitar a potência em watts(W) do mesmo, e em seguida digitar o tempo médio de uso por dia.git add .
